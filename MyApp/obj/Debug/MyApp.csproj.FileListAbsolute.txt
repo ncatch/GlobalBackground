@@ -1,0 +1,10 @@
+D:\TestProject\winform\MyApp\MyApp\bin\Debug\MyApp.exe.config
+D:\TestProject\winform\MyApp\MyApp\bin\Debug\MyApp.exe
+D:\TestProject\winform\MyApp\MyApp\bin\Debug\MyApp.pdb
+D:\TestProject\winform\MyApp\MyApp\obj\Debug\MyApp.frmMain.resources
+D:\TestProject\winform\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+D:\TestProject\winform\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.Cache
+D:\TestProject\winform\MyApp\MyApp\obj\Debug\MyApp.exe
+D:\TestProject\winform\MyApp\MyApp\obj\Debug\MyApp.pdb
+D:\TestProject\winform\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+D:\TestProject\winform\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
